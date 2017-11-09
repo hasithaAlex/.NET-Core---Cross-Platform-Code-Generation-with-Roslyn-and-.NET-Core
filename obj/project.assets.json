@@ -7063,11 +7063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\RoslynCore.csproj",
+      "projectUniqueName": "C:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\RoslynCore.csproj",
       "projectName": "RoslynCore",
-      "projectPath": "c:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\RoslynCore.csproj",
+      "projectPath": "C:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\RoslynCore.csproj",
       "packagesPath": "C:\\Users\\HasithaM\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\obj\\",
+      "outputPath": "C:\\Users\\HasithaM\\Desktop\\GIT\\RoslynCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HasithaM\\AppData\\Roaming\\NuGet\\NuGet.Config",
