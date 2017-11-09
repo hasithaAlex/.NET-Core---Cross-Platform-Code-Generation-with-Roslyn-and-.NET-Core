@@ -1,0 +1,9 @@
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\bin\Debug\netcoreapp1.1\RoslynCore.deps.json
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\bin\Debug\netcoreapp1.1\RoslynCore.runtimeconfig.json
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\bin\Debug\netcoreapp1.1\RoslynCore.runtimeconfig.dev.json
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\bin\Debug\netcoreapp1.1\RoslynCore.dll
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\bin\Debug\netcoreapp1.1\RoslynCore.pdb
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\obj\Debug\netcoreapp1.1\RoslynCore.csproj.CoreCompileInputs.cache
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\obj\Debug\netcoreapp1.1\RoslynCore.AssemblyInfo.cs
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\obj\Debug\netcoreapp1.1\RoslynCore.dll
+C:\Users\HasithaM\Desktop\GIT\RoslynCore\obj\Debug\netcoreapp1.1\RoslynCore.pdb

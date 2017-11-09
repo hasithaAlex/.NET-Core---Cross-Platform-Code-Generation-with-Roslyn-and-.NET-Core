@@ -1,0 +1,38 @@
+{
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": ".NET Core Launch (console)1",
+                "type": "coreclr",
+                "request": "launch",
+                "program": "${workspaceRoot}/bin/Debug/netcoreapp1.1/RoslynCore.dll",
+                "args": [],
+                "cwd": "${workspaceRoot}",
+                "stopAtEntry": false,
+                "console": "internalConsole"
+            },
+        {
+            "name": ".NET Core Launch (console)2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp1.1/RoslynCore.dll",
+            "args": [],
+            "cwd": "${workspaceRoot}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "pipeTransport": {
+                "pipeCwd": "${workspaceRoot}",
+                "pipeProgram": "enter the fully qualified path for the pipe program name, for example '/usr/bin/ssh'",
+                "pipeArgs": [],
+                "debuggerPath": "enter the path for the debugger on the target machine, for example ~/vsdbg/vsdbg"
+            }
+        },
+            {
+                "type": "node",
+                "request": "launch",
+                "name": "Launch Program",
+                "program": "${file}"
+            }
+        ]
+    }
